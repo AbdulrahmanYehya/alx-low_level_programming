@@ -1,5 +1,10 @@
 #include "main.h"
 int actual_prime(int n, int i);
+/**
+ * is_prime_number - checks if number is prime or not
+ * @n: number
+ * Return: 1 if prime and 0 if not prime number
+ */
 int is_prime_number(int n)
 {
 	if (n <= 1)

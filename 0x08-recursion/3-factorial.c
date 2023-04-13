@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * factorial - calculates the factorial of a number
+ * @n: !n
+ * Return: factorial of the number that was inerted by the user
+ */
 int factorial(int n)
 {
 	if (n < 0)
