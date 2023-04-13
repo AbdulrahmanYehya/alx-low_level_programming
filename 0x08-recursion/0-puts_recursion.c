@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * _puts_recursion is the same as puts;
+ *_puts_recursion is the same as puts;
  * Return: Always 0
+ * @s: input
  */
 void _puts_recursion(char *s)
 {
