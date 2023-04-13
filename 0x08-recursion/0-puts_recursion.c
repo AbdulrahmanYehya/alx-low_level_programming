@@ -1,7 +1,7 @@
 #include "main.h"
 void _puts_recursion(char *s)
 /**
- *0 is success
+ * _puts_recursion is the same as puts;
  */
 
 {
