@@ -2,6 +2,7 @@
 void _puts_recursion(char *s)
 /**
  * _puts_recursion is the same as puts;
+ * Return: Always 0
  */
 
 {
